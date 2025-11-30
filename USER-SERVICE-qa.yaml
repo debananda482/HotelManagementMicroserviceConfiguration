@@ -1,8 +1,9 @@
-userService:
+user-service:
   message: "Welcome to User Service related QA APIs"
   contactDetails:
     name: "Debananda Mahata - QA Lead"
     email: "debananda.ju12@gmail.com"
   onCallSupport:
     - 8967981790
+
     - 8967289932
