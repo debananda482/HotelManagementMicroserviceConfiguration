@@ -2,7 +2,8 @@ ratingService:
   message: "Welcome to Rating Service related prod APIs"
   contactDetails:
     name: "Debananda Mahata - Product Owner"
-    email: "debananda.ju12@gmail.com"
+    email: "{cipher}dc56b15b9b1543da7acb19d8d4f05342b3ba25a72fbb153868bd69b3f64ea85384e466376bbf152c033c3a5ccfe1d85b"
   onCallSupport:
     - 8967981790
+
     - 8967289932
